@@ -1,4 +1,5 @@
-## c-http-server
+# c-http-server
+### Overview
 This is a repository containing the source code of a simple http server made from scratch in C, using the winsock2 library.
 
 ### Usage
